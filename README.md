@@ -67,3 +67,7 @@
 <a href="https://github.com/AsphyxiaOVO" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
+<a href="https://huggingface.co/asphyxiation112" target="_blank">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</a>
